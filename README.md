@@ -1,6 +1,6 @@
 # WaterMarkLab
 
-[![English](README.md) | [![中文](README_zh.md)
+[English](README.md) | [中文](README_zh.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
